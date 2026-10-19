@@ -15,8 +15,4 @@ Je recommande de chercher par vous même avant d'utiliser ce guide.
 - Succès Astrub : cinq dalles et passage secret.
 - Succès Litneg : accès à la grotte des Chafers.
 
-## Télécharger le guide
-
-📄 [Consulter le guide PDF](./Recherche Retro Survival.pdf)
-
 ## Ce projet est un guide communautaire indépendant, non affilié à Ankama ou aux créateurs du jeu. Quiconque souhaite légitimement que je supprime le guide --> je le ferai no questions asked.
