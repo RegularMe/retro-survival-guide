@@ -1,8 +1,10 @@
 # Retro Survival — Guide Dofus & Succès Secrets
 
 Guide communautaire non officiel pour [Retro Survival](https://retrosurvival.online/).
+## EXCELLENT JEU - JE RECOMMANDE DE JOUER PLUSIEURS HEURES ET D'APPRECIER LE JEU AVANT DE SE SPOILER LES SECRETS
 
-**Attention : spoilers !** Ce guide révèle les emplacements et les conditions d'obtention des succès secrets.
+**Attention : spoilers !** Je répète, ce guide révèle les emplacements et les conditions d'obtention des succès secrets.
+Je recommande de chercher par vous même avant d'utiliser ce guide.
 
 ## Contenu
 
