@@ -6,6 +6,9 @@ Guide communautaire non officiel pour [Retro Survival](https://retrosurvival.onl
 **Attention : spoilers !** Je répète, ce guide révèle les emplacements et les conditions d'obtention des succès secrets.
 Je recommande de chercher par vous même avant d'utiliser ce guide.
 
+## Recherche assistée par IA
+J'ai utilisé des connaissances et compétences personnelles ainsi que l'aide de ChatGPT pour compiler et mettre en forme la fiche, et n'en ai donc pas le crédit exclusif.
+
 ## Contenu
 
 - Les cinq Dofus : effets, jets, monstres concernés et taux de drop.
