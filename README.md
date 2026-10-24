@@ -11,11 +11,12 @@ J'ai utilisé des connaissances et compétences personnelles ainsi que l'aide de
 
 ## Contenu
 
-- Les cinq Dofus : effets, jets, monstres concernés et taux de drop.
+- Les six Dofus : effets, jets, monstres concernés et taux de drop.
 - Formules de calcul des probabilités de drop.
 - Tutoriel illustré du secret Dragoeuf.
 - Tutoriel du secret Wabbit et du sort Cawotte.
 - Succès Astrub : cinq dalles et passage secret.
 - Succès Litneg : accès à la grotte des Chafers.
+- Secret et succès : égouts de Brakmar.
 
 ## Ce projet est un guide communautaire indépendant, non affilié à Ankama ou aux créateurs du jeu. Quiconque souhaite légitimement que je supprime le guide --> je le ferai no questions asked.
